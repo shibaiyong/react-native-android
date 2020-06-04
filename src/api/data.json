@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bananavarieties.jpg",
+    "title": "头部标题1",
+    "content": "第一个电影详情"
+  },
+  {
+    "id":2,
+    "url": "https://pics5.baidu.com/feed/8601a18b87d6277f66e5840ef2aade36e824fcaf.jpeg?token=b0d82e4f743f425cd3bb869518fb6326",
+    "title": "头部标题2",
+    "content": "第二个电影详情"
+  },
+  {
+    "id": 3,
+    "url": "https://pics5.baidu.com/feed/8601a18b87d6277f66e5840ef2aade36e824fcaf.jpeg?token=b0d82e4f743f425cd3bb869518fb6326",
+    "title": "头部标题3",
+    "content": "第三个电影详情"
+  },
+  {
+    "id": 4,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bananavarieties.jpg",
+    "title": "头部标题4",
+    "content": "第四个电影详情"
+  }
+]
